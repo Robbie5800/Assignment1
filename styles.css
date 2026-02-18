@@ -1,0 +1,74 @@
+body{
+    background-color: rgb(14, 30, 45);
+}
+.header{
+    color: rgb(139, 158, 208);
+    font-size: 36px;
+    text-align: center;
+    font: bold 36px "Times New Roman", Times, serif;
+    margin: 0;
+}
+.about-me{
+    border: black solid 2px;
+    border-radius: 8px;
+    font-size: 22px;
+    display: flex;
+    margin-left: 36px;
+    margin-right: 36px;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(137, 145, 160);
+}
+.nav-bar{
+    font: 18px "arial", sans-serif;
+}
+.social-media {
+    max-width: 400px;
+    border: black solid 2px;
+    border-radius: 8px;
+    margin-left: 36px;
+    margin-right: 36px;
+    justify-content: center;
+    align-items: center;
+    padding: 11px;
+    background-color: rgb(137, 145, 160);
+}
+
+.social-media h2 {
+    text-decoration: underline;
+}
+
+.social-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px 0;
+}
+
+.social-row img {
+    width: 40px;
+}
+.reach-out {
+    max-width: 400px;
+    border: black solid 2px;
+    border-radius: 8px;
+    margin-left: 36px;
+    margin-right: 36px;
+    justify-content: center;
+    float: left;
+    background-color: rgb(137, 145, 160);
+}
+
+.bottom-row {
+    border: black solid 2px;
+    padding: 18px;
+    margin-left: 36px;
+    margin-right: 36px;
+    border-radius: 14px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+    background-color: rgb(24, 46, 66);
+
+}

@@ -1,0 +1,32 @@
+.nav-bar{
+    font: 18px "arial", sans-serif;
+}
+.header{
+    color: rgb(9, 21, 49);
+    font-size: 36px;
+    text-align: center;
+    font: bold 36px "Times New Roman", Times, serif;
+    margin: 0;
+}
+body{
+    background-color: rgb(133, 150, 182);
+}
+.text-box{
+    border: black solid 2px;
+    border-radius: 8px;
+    font-size: 18px;
+    display: flex;
+    background-color: rgb(10, 28, 61);
+    color: rgb(150, 160, 196);
+    padding: 18px;
+    max-width: 450px;
+    margin-left: 18px;
+    margin-right: 36px;
+}
+.leftAligned{
+    border: black solid 3px;
+    border-radius: 12px;
+    margin-left: 36px;
+    margin-right: 36px;
+    display: flex;
+}
